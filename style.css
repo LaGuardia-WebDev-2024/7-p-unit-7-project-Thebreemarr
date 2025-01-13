@@ -2,6 +2,7 @@ body {
   background-color: black;
   text-align: center;
   color: white;
+  background-color: rgb(5, 75, 133 )
 }
 
 
@@ -18,7 +19,8 @@ body {
   justify-content: space-around;
 }
 
- .body {background-color: rgb(5, 75, 133)}
+ 
+
 
 
  
